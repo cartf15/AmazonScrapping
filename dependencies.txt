@@ -1,0 +1,6 @@
+pip install openpyxl==3.0.1
+pip install XlsxWriter
+pip install selenium
+
+
+Python 3.7.8 64 bit

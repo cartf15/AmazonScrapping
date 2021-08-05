@@ -1,0 +1,7 @@
+Input: archivo excel con los productos a buscar en la columna: Producto 
+Robot / proceso : Ingresa a Amazon, sin cuenta, realiza la busqueda del producto, itera sobre los primeros N resultados, captura la informacion que necesita para el archivo de Output, genera el Archivo en ruta local. 
+Output: Enviar el correo con el Archivo de salida a la direccion encontrada en el archivo de entrada. 
+
+
+
+
